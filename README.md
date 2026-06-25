@@ -38,5 +38,8 @@ Se você quiser analisar, modificar ou compilar o código fonte, siga os passos 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-   cd NOME_DO_REPOSITORIO
+   git clone [https://github.com/Kzz-cmd/Pvz-Cheat-Menu.git](https://github.com/Kzz-cmd/Pvz-Cheat-Menu.git)
+   cd Pvz-Cheat-Menu
+
+
+
